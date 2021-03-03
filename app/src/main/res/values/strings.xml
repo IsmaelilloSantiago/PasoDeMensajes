@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasoDeMensajes</string>
+    <string name="Hint">Escribe algo...</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="MensajeRecibido">El mensaje que ha recibido es: </string>
+
+</resources>
